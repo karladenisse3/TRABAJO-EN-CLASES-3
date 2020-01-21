@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\ejercicioClientes\ejercicioClientes\bin\Debug\ejercicioClientes.exe.config
+C:\Users\USUARIO\source\repos\ejercicioClientes\ejercicioClientes\bin\Debug\ejercicioClientes.exe
+C:\Users\USUARIO\source\repos\ejercicioClientes\ejercicioClientes\bin\Debug\ejercicioClientes.pdb
+C:\Users\USUARIO\source\repos\ejercicioClientes\ejercicioClientes\obj\Debug\ejercicioClientes.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejercicioClientes\ejercicioClientes\obj\Debug\ejercicioClientes.exe
+C:\Users\USUARIO\source\repos\ejercicioClientes\ejercicioClientes\obj\Debug\ejercicioClientes.pdb
