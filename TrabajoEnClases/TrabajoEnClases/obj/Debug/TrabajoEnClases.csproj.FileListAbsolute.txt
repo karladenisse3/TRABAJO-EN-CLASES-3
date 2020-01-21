@@ -1,0 +1,12 @@
+C:\Users\CompuStoreManta\source\repos\TrabajoEnClases\TrabajoEnClases\bin\Debug\TrabajoEnClases.exe.config
+C:\Users\CompuStoreManta\source\repos\TrabajoEnClases\TrabajoEnClases\bin\Debug\TrabajoEnClases.exe
+C:\Users\CompuStoreManta\source\repos\TrabajoEnClases\TrabajoEnClases\bin\Debug\TrabajoEnClases.pdb
+C:\Users\CompuStoreManta\source\repos\TrabajoEnClases\TrabajoEnClases\obj\Debug\TrabajoEnClases.csprojAssemblyReference.cache
+C:\Users\CompuStoreManta\source\repos\TrabajoEnClases\TrabajoEnClases\obj\Debug\TrabajoEnClases.exe
+C:\Users\CompuStoreManta\source\repos\TrabajoEnClases\TrabajoEnClases\obj\Debug\TrabajoEnClases.pdb
+G:\TrabajoEnClases\TrabajoEnClases\obj\Debug\TrabajoEnClases.csprojAssemblyReference.cache
+G:\TrabajoEnClases\TrabajoEnClases\obj\Debug\TrabajoEnClases.exe
+G:\TrabajoEnClases\TrabajoEnClases\obj\Debug\TrabajoEnClases.pdb
+G:\TrabajoEnClases\TrabajoEnClases\bin\Debug\TrabajoEnClases.exe.config
+G:\TrabajoEnClases\TrabajoEnClases\bin\Debug\TrabajoEnClases.exe
+G:\TrabajoEnClases\TrabajoEnClases\bin\Debug\TrabajoEnClases.pdb
